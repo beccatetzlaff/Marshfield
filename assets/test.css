@@ -83,7 +83,7 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 
 .divider2 {
 	width:1px;
-	height:550px;
+	height:530px;
 	margin: 22px 22px 0 0;
 	float:left;
 	background-color:#5a5e5d;
@@ -97,7 +97,6 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 /* ~~ The footer ~~ */
 .footer {
 	padding: 10px 0;
-	background: #CCC49F;
 }
 
 /* ~~ miscellaneous float/clear classes ~~ */
